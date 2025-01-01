@@ -1,1 +1,3 @@
 apple - a round, red fruit
+
+banana - a long, yellow fruit
