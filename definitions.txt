@@ -1,3 +1,5 @@
 apple - a round, red fruit
 
 banana - a long, yellow fruit
+
+cherry - a small, round, sweet and tart fruit
